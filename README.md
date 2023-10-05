@@ -1,5 +1,7 @@
 # Student_Management_System
-This C++ code appears to be a simple Student Management System. It allows users to manage student records for two divisions, Division A and Division B. Here's a brief description of the code structure and functionality:
+This C++ code appears to be a simple Student Management System. It allows users to manage student records for two divisions, Division A and Division B.
+
+Here's a brief description of the code structure and functionality:
 
 1. It includes several standard C++ libraries like iostream, fstream, string, and others for input/output and file handling.
 
